@@ -12,14 +12,10 @@ git clone git@github.com/etoundi2nd/daisyui-autocomplete.git
 ```
 
 ### Contribution
+If you want to contribute to the project
 ```bash
-# if you want to contribute to the project,
-# creating a symlink to a directory of your choice might be helpful
-ln -s ~/Library/Application\ Support/Sublime\ Text/Packages/daisyui-autocomplete ~/Documents/my-projects/daisyui-autocomplete
+git clone git@github.com/etoundi2nd/daisyui-autocomplete.git
 ```
-
-Note: you can get the Sublime packages path in the Sublime menu:
-`Sublime Text > Preferences > Browse Packages…`
 
 Note: getting a list of daisyui using ruby
 
